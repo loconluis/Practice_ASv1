@@ -1,0 +1,6 @@
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\obj\Debug\pracipc2_v2.csprojResolveAssemblyReference.cache
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\bin\pracipc2_v2.dll.config
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\bin\pracipc2_v2.dll
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\bin\pracipc2_v2.pdb
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\obj\Debug\pracipc2_v2.dll
+c:\users\luis locon\documents\visual studio 2013\Projects\pracipc2_v2\pracipc2_v2\obj\Debug\pracipc2_v2.pdb
